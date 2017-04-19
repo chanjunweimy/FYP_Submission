@@ -22,11 +22,11 @@ After extracting speech segments of the participants into different audio record
 
 * [combineAudios.py](https://github.com/chanjunweimy/FYP_Submission/blob/master/code/preprocess/combineAudios.py): is written to automate the process of combining the speech segments. To use it, put it into the folders that contains all the speech segments of different speakers, then run "python combineAudios.py" in the command prompt.
 
-### Spliting the audios into train and dev folder
+## Spliting the audios into train and dev folder
 Using the csv files that specify which id is in train or dev set, get all the merged audios from a source directory, and split them into the train and dev folder in the target directory, a python script is written for this purpose:
 
 * [splitTrainDev.py](https://github.com/chanjunweimy/FYP_Submission/blob/master/code/preprocess/splitTrainDev.py): is written to automate the process of spliting the audios into the train and dev folder. Feel free to change the variables inside the file especially: "DIR_SOURCE" and "DIR_TARGET" as they are the relative file path of the source directory and target directory respectively.
 
-### Convert PHQ-8 scores to Depression Level
+## Convert PHQ-8 scores to Depression Level
 As we propose to perform a multi-class classification which predicts the depression level of a speaker, we need to convert the PHQ-8 scores to depression level, we write a python script to automate this process:
-* [convertToMultiClass.py](https://github.com/chanjunweimy/FYP_Submission/blob/master/code/preprocess/convertToMultiClass.py)
+* [convertToMultiClass.py](https://github.com/chanjunweimy/FYP_Submission/blob/master/code/preprocess/convertToMultiClass.py): To use it, place it in the folder that contains the PHQ-8 ground truth and run it with the command "python convertToMultiClass.py".
