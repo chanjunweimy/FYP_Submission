@@ -8,3 +8,5 @@ This folder contains only the final year report I submitted:
 * [classifierProposedWithFeatureMean.csv](https://github.com/chanjunweimy/FYP_Submission/blob/master/doc/Report/classifierProposedWithFeatureMean.csv): is one of the appendix. It records the effect of normalized mean audio features to models.
 * [classifierProposedWithFeatureMeanStd.csv](https://github.com/chanjunweimy/FYP_Submission/blob/master/doc/Report/classifierProposedWithFeatureMeanStd.csv): is one of the appendix. It records the effect of normalized mean and std audio features to models.
 * [classifierProposedWithFeatureMeanStdFS.csv](https://github.com/chanjunweimy/FYP_Submission/blob/master/doc/Report/classifierProposedWithFeatureMeanStdFS.csv): is one of the appendix. It records the effect of feature selected normalized mean and std audio features to models.
+## Tool Used
+* [Mendeley](https://www.mendeley.com/downloads): used to organize all the resources and do the citation
