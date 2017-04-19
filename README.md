@@ -6,6 +6,8 @@ This is the repository containing of all my work for my Final Year Project, **De
 * [Acknowledgment](README.md#acknowledgment)
 * [Repository Details](README.md#repository-details)
 * [Audio Dataset](README.md#audio-dataset)
+* [Programming Language](README.md#programming-language)
+* [Platform](README.md#platform)
 * [Tools Used](README.md#tools-used)
 * [Author](README.md#author)
 
@@ -44,6 +46,13 @@ This repository contains 3 folders:
 ## Audio Dataset
 We are using the [DAIC-WOZ database](http://dcapswoz.ict.usc.edu/) 
 provided by AVEC2016 organizers that can be found in http://dcapswoz.ict.usc.edu/ 
+
+## Programming Language
+* Python
+* Windows Batch Script
+
+## Platform
+Preferably **Windows**. I wrote the code in Windows. While most of the code are written in Python and can be run in any platforms, some of the codes are written as Windows Batch Script. Although they could be translated to python pretty easily and then all the codes can be run on any platform, they are not tried in any other platform, so I prefer you to run them on Windows. 
 
 ## Tools Used
 * [Python 2.7.12](https://www.python.org/downloads/release/python-2712/)
