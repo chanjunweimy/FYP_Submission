@@ -1,5 +1,5 @@
 # Depression Detection from Speech
-This is the repository containing of all my work for my Final Year Project, *Depression Detection from Speech*.
+This is the repository containing of all my work for my Final Year Project, **Depression Detection from Speech**.
 
 ## Index
 * [Abstract](README.md#abstract)
