@@ -37,9 +37,9 @@ have lent a hand in this venture.
 
 ## Repository Details
 This repository contains 3 folders:
-* code: contains all the python or batch script written to automate the process of generating the result.
-* doc: contains all the documents such as the report and the presentation slides.
-* data: the audio features extracted to be used to train the models after being prepared.
+* [code](https://github.com/chanjunweimy/FYP_Submission/tree/master/code): contains all the python or batch script written to automate the process of generating the result.
+* [doc](https://github.com/chanjunweimy/FYP_Submission/tree/master/doc): contains all the documents such as the report and the presentation slides.
+* [data](https://github.com/chanjunweimy/FYP_Submission/tree/master/data): the audio features extracted to be used to train the models after being prepared.
 
 ## Audio Dataset
 We are using the [DAIC-WOZ database](http://dcapswoz.ict.usc.edu/) 
